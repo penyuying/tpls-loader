@@ -1,11 +1,31 @@
 {
   "name": "tpls-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "tpls-loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penyuying/gulp-loader.git"
+  },
+  "keywords": [
+    "gulp-loader"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.0.2",
+    "object-assign": "^4.1.0",
+    "gulp-tpls": "git+https://github.com/penyuying/gulp-tpls.git"
+  },
+
+  "author": {
+    "name": "penyuying"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penyuying/gulp-tpls/issues"
+  },
+  "homepage": "https://github.com/penyuying/gulp-tpls#readme",
+  "readme": "ERROR: No README data found!"
 }
