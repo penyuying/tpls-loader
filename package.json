@@ -1,6 +1,6 @@
 {
   "name": "tpls-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tpls-loader",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "dependencies": {
     "loader-utils": "^1.0.2",
     "object-assign": "^4.1.0",
-    "gulp-tpls": "git+https://github.com/penyuying/gulp-tpls.git"
+    "gulp-tpls": "^1.0.0"
   },
 
   "author": {
